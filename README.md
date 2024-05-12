@@ -5,6 +5,8 @@ Framework/s used:
 - Java Swing
 
 
+## ERD
+![](/assets/ERD.png?raw=true)
 
 ## Login
 ![](/assets/login.PNG?raw=true)
